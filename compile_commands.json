@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/gangod/Projects/GANGUGE/build",
+  "command": "/usr/bin/g++ -I/home/gangod/Projects/GANGUGE/headers -g -std=c++17 -o CMakeFiles/vm.dir/src/main.cpp.o -c /home/gangod/Projects/GANGUGE/src/main.cpp",
+  "file": "/home/gangod/Projects/GANGUGE/src/main.cpp",
+  "output": "/home/gangod/Projects/GANGUGE/build/CMakeFiles/vm.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/gangod/Projects/GANGUGE/build",
+  "command": "/usr/bin/g++ -I/home/gangod/Projects/GANGUGE/headers -g -std=c++17 -o CMakeFiles/vm.dir/src/lexer.cpp.o -c /home/gangod/Projects/GANGUGE/src/lexer.cpp",
+  "file": "/home/gangod/Projects/GANGUGE/src/lexer.cpp",
+  "output": "/home/gangod/Projects/GANGUGE/build/CMakeFiles/vm.dir/src/lexer.cpp.o"
+},
+{
+  "directory": "/home/gangod/Projects/GANGUGE/build",
+  "command": "/usr/bin/g++ -I/home/gangod/Projects/GANGUGE/headers -g -std=c++17 -o CMakeFiles/vm.dir/src/parser.cpp.o -c /home/gangod/Projects/GANGUGE/src/parser.cpp",
+  "file": "/home/gangod/Projects/GANGUGE/src/parser.cpp",
+  "output": "/home/gangod/Projects/GANGUGE/build/CMakeFiles/vm.dir/src/parser.cpp.o"
+},
+{
+  "directory": "/home/gangod/Projects/GANGUGE/build",
+  "command": "/usr/bin/g++ -I/home/gangod/Projects/GANGUGE/headers -g -std=c++17 -o CMakeFiles/vm.dir/src/compiler.cpp.o -c /home/gangod/Projects/GANGUGE/src/compiler.cpp",
+  "file": "/home/gangod/Projects/GANGUGE/src/compiler.cpp",
+  "output": "/home/gangod/Projects/GANGUGE/build/CMakeFiles/vm.dir/src/compiler.cpp.o"
+},
+{
+  "directory": "/home/gangod/Projects/GANGUGE/build",
+  "command": "/usr/bin/g++ -I/home/gangod/Projects/GANGUGE/headers -g -std=c++17 -o CMakeFiles/vm.dir/src/VM.cpp.o -c /home/gangod/Projects/GANGUGE/src/VM.cpp",
+  "file": "/home/gangod/Projects/GANGUGE/src/VM.cpp",
+  "output": "/home/gangod/Projects/GANGUGE/build/CMakeFiles/vm.dir/src/VM.cpp.o"
+}
+]

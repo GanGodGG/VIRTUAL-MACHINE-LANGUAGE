@@ -1,0 +1,3 @@
+/home/gangod/Projects/GANGUGE/build/CMakeFiles/vm.dir
+/home/gangod/Projects/GANGUGE/build/CMakeFiles/edit_cache.dir
+/home/gangod/Projects/GANGUGE/build/CMakeFiles/rebuild_cache.dir
